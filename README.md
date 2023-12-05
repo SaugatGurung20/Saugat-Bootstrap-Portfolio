@@ -1,11 +1,17 @@
-# SaugatGurung20-Portfolio
+# Saugat-bootstrap-Portfolio
 ## portfolio of saugat gurung
-This project is about making your protfolio for future use. It is only a layout for future use when looking for jobs
+This project is about making my protfolio using bootstrap for future use. It is only a layout for future use when looking for jobs
 ## Installation guide
  To use the website just go to this link. https://saugatgurung20.github.io/SaugatGurung20-Portfolio/
 ## Usage
  You can access it throught this link. https://saugatgurung20.github.io/SaugatGurung20-Portfolio/
  Basic layout of portfolio for future use
+ when you open you should see this
+![Screenshot 1](/assets/images/Screenshot%202023-12-05%20at%2022.23.24.png)
+![Screenshot 2](./assets/images/Screenshot%202023-12-05%20at%2022.23.26.png)
+![Screenshot 3](/assets/images/Screenshot%202023-12-05%20at%2022.23.30.png)
+![Screenshot 4](/assets/images/Screenshot%202023-12-05%20at%2022.23.33.png)
+ 
 ## License
 MIT License
 
